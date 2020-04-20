@@ -1,0 +1,59 @@
+#fond{
+  background-image:url("../image/Fond.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:#ffffff;
+  text-align: center;
+  padding: 15px;
+}
+strong{
+  font-size: 24px;
+  background: #E7E7EE;
+  border-bottom: 2px solid #338888;
+}
+h1{
+  font-size:40px;
+  font-family: :sans-serif;
+}
+.firstCell{
+  width: 100px;
+  height: 40px;
+}
+p{
+  font-size:19px;
+}
+td{
+  margin: 15px;
+}
+#nom{
+  color: yellow;
+  font-size: 40px
+}
+#compétences{
+background-image: url("../image/Compétences.png");
+background-repeat: no-repeat;
+text-align: center;
+background-size: cover;
+color:#340A40;
+padding: 15px;
+}
+#FORMATIONS{
+background-image: url("../image/FORMATIONS.png");
+background-repeat: no-repeat;
+text-align: center;
+background-size: cover;
+color:#340A40;
+padding: 15px;
+}
+#EXPERIENCES{
+background-image: url("../image/EXPERIENCES.png");
+background-repeat: no-repeat;
+text-align: center;
+background-size: cover;
+color:#ffffff;
+padding: 2px
+}
+#CENTRE{
+  text-align: center;
+
+}
