@@ -30,7 +30,7 @@ td{
   font-size: 40px
 }
 #compétences{
-background-image: url("../image/Compétences.png");
+background-image: url("../image/compétences.png");
 background-repeat: no-repeat;
 text-align: center;
 background-size: cover;
@@ -38,7 +38,7 @@ color:#340A40;
 padding: 15px;
 }
 #FORMATIONS{
-background-image: url("../image/FORMATIONS.png");
+background-image: url("../image/Formations.png");
 background-repeat: no-repeat;
 text-align: center;
 background-size: cover;
