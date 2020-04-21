@@ -10,20 +10,16 @@ strong{
   font-size: 24px;
   background: #E7E7EE;
   border-bottom: 2px solid #338888;
+  text-align: center;
 }
 h1{
   font-size:40px;
   font-family: :sans-serif;
 }
-.firstCell{
-  width: 100px;
-  height: 40px;
-}
+
 p{
   font-size:19px;
-}
-td{
-  margin: 15px;
+  text-align: center;
 }
 #nom{
   color: yellow;
@@ -43,7 +39,16 @@ background-repeat: no-repeat;
 text-align: center;
 background-size: cover;
 color:#340A40;
-padding: 15px;
+padding: 25px;
+}
+#Réalisations{
+  background-image: url("../image/festival gospel new.png");
+  background-image: url("../image/affiche top.png");
+  background-image: url("../image/7ici.png.png");
+  background-image: url("../image/image/LMT.png.png");
+  background-image: url("../image/image/Cartes de visite.png");
+  background-image: url("../image/image/scene.png");
+  text-align: center;
 }
 #EXPERIENCES{
 background-image: url("../image/EXPERIENCES.png");
